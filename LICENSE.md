@@ -1,14 +1,14 @@
-# The Tree Leaf License (TLL) version 1.2
+# The Forest Pastel License (FPL) version 1.3 (formally "The Tree Leaf License")
 
 ## Preamble
 
-The Tree Leaf License is made to be a simple and safe entry to those wanting to use a copyleft license without having to resort to licenses like the GNU General Public License or the Mozilla Public License. Please note that this license isn't tested in the legal sense, use this at your own risk.
+The Forest Pastel License is made to be a simple and safe entry to those wanting to use a copyleft license without having to resort to licenses like the GNU General Public License or the Mozilla Public License. Please note that this license isn't tested in the legal sense, use this at your own risk.
 
 # Terms
 
 ## 1. Definitions
 
-The "License" refers to the Tree Leaf License and other license included that may be included in the work.
+The "License" refers to the Forest Pastel License and other licenses that may be included in the work.
 
 The "Program" refers to any work that is under this license.
 
@@ -35,9 +35,9 @@ Anyone who use this license may use another license for specific parts of their 
 
 Anyone who modify the program may or may not distribute their modfied version, if they do, they MUST carry the licence from the original program.
 
-## Revised versions of the License
+# Revised versions of the License
 
-If a new version of the Tree Leaf License is published, Both the original program and dervived programs are allowed to use or not use the new version, so long as the author of the original program has specified to allow it.
+If a new version of the Forest Pastel License is published, Both the original program and dervived programs are allowed to upgrade the new version, so long as the author of the original program has specified to allow it.
 
 # Disclaimer of Warranty
 
@@ -58,7 +58,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Anyone is granted permission to use, study, share, and modify the program for your needs, under the terms of the Tree Leaf License version 1.2 or (at your option) later version.
+Anyone is granted permission to use, study, share, and modify the program for your needs, under the terms of the Forest Pastel License version 1.2 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
