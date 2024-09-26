@@ -33,11 +33,11 @@ If anyone receives a copy of a program under this license, they have granted per
 
 If anyone were to distribute their derived program, they MUST carry the license from the original program, as it guarantees the permissions granted to everyone.
 
-# Sub-licensing
+# Other Licenses
 
 Anyone is permitted to use another license for a specfic part of their program whom they may see fit. 
 
-Anyone who distribute their derived program MUST ALSO carry the license from the original program.
+Anyone who distribute their derived program MUST ALSO carry other licenses from the original program.
 
 # Revised versions of the License
 
