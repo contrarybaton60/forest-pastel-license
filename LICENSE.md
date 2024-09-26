@@ -1,4 +1,4 @@
-# The Tree Leaf License (TFL) version 1.2
+# The Tree Leaf License (TLL) version 1.2
 
 ## Preamble
 
