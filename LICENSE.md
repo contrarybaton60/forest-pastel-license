@@ -31,9 +31,13 @@ If anyone receives a copy of a program under this license, they have granted per
 - The permission to share the program to others
 - The permission to modify the program and share it, therefore "Derived Program"
 
-Anyone who use this license may use another license for specific parts of their program whom they see fit, but not the entire program itself.
+If anyone were to distribute their derived program, they MUST carry the license from the original program, as it guarantees the permissions granted to everyone.
 
-Anyone who modify the program may or may not distribute their modfied version, if they do, they MUST carry the licence from the original program.
+# Sub-licensing
+
+Anyone is permitted to use another license for a specfic part of their program whom they may see fit. 
+
+Anyone who distribute their derived program MUST ALSO carry the license from the original program.
 
 # Revised versions of the License
 
@@ -58,7 +62,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Anyone is granted permission to use, study, share, and modify the program for your needs, under the terms of the Forest Pastel License version 1.2 or (at your option) later version.
+Anyone is granted permission to use, study, share, and modify the program for your needs, under the terms of the Forest Pastel License version 1.3 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
