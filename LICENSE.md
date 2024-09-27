@@ -35,9 +35,9 @@ If anyone were to distribute their derived program, they MUST carry the license 
 
 # Other Licenses
 
-Anyone is permitted to use another license for a specfic part of their program whom they may see fit. 
+Anyone is permitted to use another license for a specfic part of their program whom they may see fit, but not replacing the license itself.
 
-Anyone who distribute their derived program MUST ALSO carry other licenses from the original program.
+Anyone who distribute their derived program must also carry other licenses from the original program if it enforces it.
 
 # Revised versions of the License
 
