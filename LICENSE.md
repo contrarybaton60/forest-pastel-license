@@ -1,4 +1,4 @@
-# The Forest Pastel License (FPL) version 1.3 (formally "The Tree Leaf License")
+# The Forest Pastel License (FPL) version 1.3
 
 ## Preamble
 
