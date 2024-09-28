@@ -20,7 +20,7 @@ The "Source Code" means a human-readable text that define the behavior and funct
 
 The "Programming Language" means the language system designed to facilitate the writing of a program.
 
-The "Libraries" means any other programs in which a program may use for it to function.
+The "Dependencies" means any other programs in which a program may use for it to function.
 
 # Permissions
 
