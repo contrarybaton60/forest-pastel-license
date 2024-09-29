@@ -4,7 +4,7 @@ Copyright © 2024 William Clouds and other contributors.
 
 Everyone is permitted to copy and share copies of this license document, but changing it is not allowed.
 
-## Preamble
+# Preamble
 
 The Forest Pastel License is a copyleft license that is made to be easy to read and understand. Many copyleft licenses are very lengthy and hard to understand comapared to permissive licenses and there aren't many to fill that gap. We decided to create this license for those who want to have the benefits of copyleft whilst being simple to understand.
 
