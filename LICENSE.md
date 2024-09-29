@@ -12,26 +12,26 @@ The Forest Pastel License is a copyleft license that is made to be easy to read 
 
 The "License" refers to the Forest Pastel License and other licenses that may be included in the work.
 
-The "Program" refers to any work that is under this license.
+The "Program" refers to any work that is under this License.
 
-The "Derivative Program" refers to any work that is based on other work under this license.
+The "Derivative Program" refers to any work that is based on other work under this License.
 
-The "Source Code" means a human-readable text that define the behavior and functionality of the program.
+The "Source Code" means a human-readable text that define the behavior and functionality of the Program.
 
-The "Binary" correspond to any and all forms of the work other than the source code.
+The "Binary" correspond to any and all forms of the work other than the Source Code.
 
-The "Programming Language" means the language system designed to facilitate the writing of a program.
+The "Programming Language" means the language system designed to facilitate the writing of a Program.
 
-The "Dependencies" means any other programs in which a program may use for it to function.
+The "Dependencies" means any other Programs in which a Program may use for it to function.
 
 # Permissions
 
 Everyone who receives a copy of a Program under this License, they have granted permission to do the following:
 
-- The permission to use the program
-- The permission to study the program
-- The permission to share the program to others
-- The permission to modify the program and share it, therefore "Derivative Program"
+- The permission to use the Program
+- The permission to study the Program
+- The permission to share the Program to others
+- The permission to modify the Program and share it, therefore "Derivative Program"
 
 If anyone were to distribute their Derivative Program, they MUST carry the license from the original Program, as it guarantees the permissions granted to everyone.
 
