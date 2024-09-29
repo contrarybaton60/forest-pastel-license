@@ -35,7 +35,7 @@ Everyone who receives a copy of a Program under this License, they have granted 
 
 If anyone were to distribute their Derivative Program, they MUST carry the license from the original Program, as it guarantees the permissions granted to everyone.
 
-# Other Licenses
+# Use of other Licenses
 
 Anyone is permitted to use another License for a specfic part of their Program whom they may see fit, but not replacing the License itself.
 
