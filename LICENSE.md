@@ -1,22 +1,24 @@
-# The Forest Pastel License (FPL) version 1.3
+# The Forest Pastel License (FPL) version 2
+
+Copyright © 2024 William Clouds and other contributors.
+
+Everyone is permitted to copy and share copies of this license document, but changing it is not allowed.
 
 ## Preamble
 
-The Forest Pastel License is made to be a simple and safe entry to those wanting to use a copyleft license without having to resort to licenses like the GNU General Public License or the Mozilla Public License. Please note that this license isn't tested in the legal sense, use this at your own risk.
+The Forest Pastel License is a copyleft license that is made to be easy to read and understand. Many copyleft licenses are very lengthy and hard to understand comapared to permissive licenses and there aren't many to fill that gap. We decided to create this license for those who want to have the benefits of copyleft whilst being simple to understand.
 
-# Terms
-
-## 1. Definitions
+# Definitions
 
 The "License" refers to the Forest Pastel License and other licenses that may be included in the work.
 
 The "Program" refers to any work that is under this license.
 
-The "Derived Program" refers to any work that is based on other work under this license.
-
-## 2. Source Code
+The "Derivative Program" refers to any work that is based on other work under this license.
 
 The "Source Code" means a human-readable text that define the behavior and functionality of the program.
+
+The "Binary" correspond to any and all forms of the work other than the source code.
 
 The "Programming Language" means the language system designed to facilitate the writing of a program.
 
@@ -24,24 +26,20 @@ The "Dependencies" means any other programs in which a program may use for it to
 
 # Permissions
 
-If anyone receives a copy of a program under this license, they have granted permission to do the following:
+Everyone who receives a copy of a Program under this License, they have granted permission to do the following:
 
 - The permission to use the program
 - The permission to study the program
 - The permission to share the program to others
-- The permission to modify the program and share it, therefore "Derived Program"
+- The permission to modify the program and share it, therefore "Derivative Program"
 
-If anyone were to distribute their derived program, they MUST carry the license from the original program, as it guarantees the permissions granted to everyone.
+If anyone were to distribute their Derivative Program, they MUST carry the license from the original Program, as it guarantees the permissions granted to everyone.
 
 # Other Licenses
 
-Anyone is permitted to use another license for a specfic part of their program whom they may see fit, but not replacing the license itself.
+Anyone is permitted to use another License for a specfic part of their Program whom they may see fit, but not replacing the License itself.
 
-Anyone who distribute their derived program must also carry other licenses from the original program if it enforces it.
-
-# Revised versions of the License
-
-If a new version of the Forest Pastel License is published, Both the original program and dervived programs are allowed to upgrade the new version, so long as the author of the original program has specified to allow it.
+Anyone who distribute their Derivative Program must also carry other Licenses from the original Program if it enforces it.
 
 # Disclaimer of Warranty
 
@@ -62,7 +60,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Anyone is granted permission to use, study, share, and modify the program for your needs, under the terms of the Forest Pastel License version 1.3 or (at your option) later version.
+Anyone is granted permission to use, study, share, and modify the program under the terms of the Forest Pastel License version 2 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
