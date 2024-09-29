@@ -10,7 +10,7 @@ The Forest Pastel License is a copyleft license that is made to be easy to read 
 
 # Definitions
 
-The "License" refers to the Forest Pastel License and other licenses that may be included in the work.
+The "License" refers to the Forest Pastel License and other Licenses that may be included in the work.
 
 The "Program" refers to any work that is under this License.
 
