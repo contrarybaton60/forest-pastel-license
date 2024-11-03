@@ -1,4 +1,4 @@
-# The Forest Pastel License (FPL) version 2
+# The Forest Pastel License (FPL) version 2.1
 
 Copyright © 2024 William Clouds and other contributors.
 
@@ -10,19 +10,13 @@ The Forest Pastel License is a copyleft license that is made to be easy to read 
 
 # Definitions
 
-The "License" refers to the Forest Pastel License and other Licenses that may be included in the work.
-
-The "Program" refers to any work that is under this License.
-
-The "Derivative Program" refers to any work that is based on other work under this License.
-
-The "Source Code" means a human-readable text that define the behavior and functionality of the Program.
-
-The "Binary" correspond to any and all forms of the work other than the Source Code.
-
-The "Programming Language" means the language system designed to facilitate the writing of a Program.
-
-The "Dependencies" means any other Programs in which a Program may use for it to function.
+- The "License" refers to the Forest Pastel License and other Licenses that may be included in the work.
+- The "Program" refers to any work that is under this License.
+- The "Derivative Program" refers to any work that is based on other work under this License.
+- The "Source Code" means a human-readable text that define the behavior and functionality of the Program.
+- The "Binary" correspond to any and all forms of the work other than the Source Code.
+- The "Programming Language" means the language system designed to facilitate the writing of a Program.
+- The "Dependencies" means any other Programs in which a Program may use for it to function.
 
 # Permissions
 
