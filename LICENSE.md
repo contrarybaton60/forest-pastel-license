@@ -1,4 +1,4 @@
-# The Forest Pastel License (FPL) version 2.1
+# The Forest Pastel License (FPL) version 2.2
 
 Copyright © 2024 William Clouds and other contributors.
 
@@ -6,7 +6,7 @@ Everyone is permitted to copy and share copies of this license document, but cha
 
 # Preamble
 
-The Forest Pastel License is a copyleft license that is made to be easy to read and understand. Many copyleft licenses are very lengthy and hard to understand comapared to permissive licenses and there aren't many to fill that gap. We decided to create this license for those who want to have the benefits of copyleft whilst being simple to understand.
+The Forest Pastel License is a simple copyleft license made for projects that wouldn't benefit from using a strong copyleft licenses or weak permissive licenses.
 
 # Definitions
 
@@ -27,9 +27,13 @@ Everyone who receives a copy of a Program under this License, they have granted 
 - The permission to share the Program to others
 - The permission to modify the Program and share it, therefore "Derivative Program"
 
-If anyone were to distribute their Derivative Program, they MUST carry the license from the original Program, as it guarantees the permissions granted to everyone.
+# Derivative Programs and Use of other Licenses
 
-# Use of other Licenses
+Anyone who distributes their Derivative Program MUST carry the License from the original Program, as it guarantees the permissions granted to everyone.
+
+Anyone who distributes their Derivative Programs (unless for the reason of sending work back to the original Program) would have to use a different name, to avoid confusion.
+
+Anyone who distributes their Derivative Program may optionally credit the owner of the original Program.
 
 Anyone is permitted to use another License for a specfic part of their Program whom they may see fit, but not replacing the License itself.
 
@@ -54,7 +58,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Anyone is granted permission to use, study, share, and modify the program under the terms of the Forest Pastel License version 2 or (at your option) later version.
+Anyone is granted permission to use, study, share, and modify the program under the terms of the Forest Pastel License version 2.2 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
