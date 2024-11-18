@@ -55,7 +55,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Everybody has granted permission to use, copy, modify, merge, publish, and distribute the program under the terms of the Atmosversity License version 2.2 or (at your option) later version.
+Everybody has granted permission to use, study, copy, modify, and share the program under the terms of the Atmosversity License version 2.2 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
