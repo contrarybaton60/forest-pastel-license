@@ -1,16 +1,15 @@
-# The Forest Pastel License (FPL) version 2.2
-
-Copyright © 2024 William Clouds and other contributors.
+# The Atmosversity License (AL) version 2.2
+Copyright © 2024-present William Clouds and other contributors.
 
 Everyone is permitted to copy and share copies of this license document, but changing it is not allowed.
 
 # Preamble
 
-The Forest Pastel License is a simple copyleft license made for projects that wouldn't benefit from using a strong copyleft licenses or weak permissive licenses.
+The Atmosversity License is a simple copyleft license made for projects that wouldn't benefit from using a strong copyleft licenses or weak permissive licenses.
 
 # Definitions
 
-- The "License" refers to the Forest Pastel License and other Licenses that may be included in the work.
+- The "License" refers to the Atmosversity License and other Licenses that may be included in the work.
 - The "Program" refers to any work that is under this License.
 - The "Derivative Program" refers to any work that is based on other work under this License.
 - The "Source Code" means a human-readable text that define the behavior and functionality of the Program.
@@ -20,7 +19,7 @@ The Forest Pastel License is a simple copyleft license made for projects that wo
 
 # Permissions
 
-Everyone who receives a copy of a Program under this License, they have granted permission to do the following:
+Everyone who receives a copy of a Program under this License, they have granted permission to do whatever they want including the following:
 
 - The permission to use the Program
 - The permission to study the Program
@@ -33,11 +32,9 @@ Anyone who distributes their Derivative Program MUST carry the License from the 
 
 Anyone who distributes their Derivative Programs (unless for the reason of sending work back to the original Program) would have to use a different name, to avoid confusion.
 
-Anyone who distributes their Derivative Program may optionally credit the owner of the original Program.
-
 Anyone is permitted to use another License for a specfic part of their Program whom they may see fit, but not replacing the License itself.
 
-Anyone who distribute their Derivative Program must also carry other Licenses from the original Program if it enforces it.
+Anyone who distribute their Derivative Program must also carry other Licenses from the original Program if the License enforces it.
 
 # Disclaimer of Warranty
 
@@ -58,7 +55,7 @@ To apply this license for your program, attach the notices to your program.
 <one line to give the program's name and a brief idea of what it does.>
 Copyright (C) <year>  <name of author>
 
-Anyone is granted permission to use, study, share, and modify the program under the terms of the Forest Pastel License version 2.2 or (at your option) later version.
+Anyone is granted permission to use, study, share, and modify the program under the terms of the Atmosversity Licenseversion 2.2 or (at your option) later version.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
