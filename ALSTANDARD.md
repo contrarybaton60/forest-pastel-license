@@ -18,13 +18,7 @@ The Atmosversity License is a simple copyleft license made for projects that wou
 - The "Dependencies" means any other Programs in which a Program may use for it to function.
 
 # Permissions
-
-Everyone who receives a copy of a Program under this License, they have granted permission to do whatever they want including the following:
-
-- The permission to use the Program
-- The permission to study the Program
-- The permission to share the Program to others
-- The permission to modify the Program and share it, therefore "Derivative Program"
+If you received a copy of a Program under this License, You have been granted permission to use, study, share, and modify the Program, and share that (therefore "Derivative Program").
 
 # Derivative Programs and Use of other Licenses
 
